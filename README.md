@@ -3,7 +3,7 @@ Carefully read this README before proceeding, Whatever happens to you OR your la
 This repo is still work in progress meaning it will be updated periodically to add new laptop models or remove some files which are obsolete, or even giving issues. 
 
 HOW TO: INSTALL CLOVER BOOTLOADER ON HDD https://www.youtube.com/watch?v=qhSciG2SKu4
-paste the downloaded dsdt.aml file to \EFI\CLOVER\ACPI\WINDOWS\  if you dont see windows folder create it and paste. 
+paste the downloaded dsdt.aml file to \EFI\CLOVER\ACPI\WINDOWS\  if you dont see windows folder create it and paste. Reboot to clover and then to windows to load the dsdt.aml EVERYTIME
 
 Report Your issues in our discord server if you can or in the github itself if you know how to do that.. if not communicate with me/us through our glorious discord server here https://discord.gg/qEAfkuA
 
