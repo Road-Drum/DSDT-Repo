@@ -1,4 +1,4 @@
-Carefully read this README before proceeding, Whatever happens to you OR your laptop is NOT my responsibility and it is your own.
+Carefully read this README before proceeding, Whatever happens to you OR your laptop is NOT my responsibility and it is your own. do NOT use a dsdt of other Laptop Models or even same model of different bios, well if you do you would get an ACPI error in BSOD which can be easily fixed by selecting windows in boot manager and avoiding clover .. go and delete the dsdt.aml YOU WILL SEE SOME MODELS HAVING UNKNOWN BIOS BECAUSE IT WASNT REPORTED TO ME YET.. IF I GOT THE VERSIONS ILL UPDATE ASAP. 
 
 This repo is still work in progress meaning it will be updated periodically to add new laptop models or remove some files which are obsolete, or even giving issues.
 
