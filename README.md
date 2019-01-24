@@ -24,7 +24,8 @@ Some dsdt.aml files are decompiled to dsl and errors are fixed so people can edi
 
 What we are doing is we edit the ACPI Tables(dsdt) to give us the STAPM limit or TDP limit or even Temperature limit we want. and inject the patched dsdt with CLOVER BOOTLOADER on every boot. so if you reboot and go directly into windows you will see only default values and no edited values. for the patched dsdt to load in windows you have to first boot into Clover Bootloader and then to Windows
 
-[Tutorial For STAPM/TDP](https://www.youtube.com/watch?v=Jre0QfLdJ5A)
+[Tutorial For STAPM/TDP](https://www.youtube.com/watch?v=Jre0QfLdJ5A) 
+
 [Tutorial For Temperature](https://www.youtube.com/watch?v=w_vV_xpwiho)
 
 Text tutorial to edit your own values into your dsdt can be found [here](https://pastebin.com/3wB2k7Ei) first 3 lines would be understood when you see the video combined
