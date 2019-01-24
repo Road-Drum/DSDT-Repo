@@ -3,13 +3,13 @@ Carefully read this README before proceeding, Whatever happens to you OR your la
 
 You will see some models having unknown BIOS because it hasn’t been reported to me yet. If I got those BIOS version, I’ll update it ASAP.
 
-# About DSDT
+### About DSDT
 
 DSDT (Differentiated System Description Table) is a part of the ACPI specification. It supplies information about supported power events in a given system. ACPI tables are provided in firmware from the manufacturer.
 
 This repo is still work in progress, meaning it will be updated periodically to add new laptop models or remove some files which are obsolete, or even giving issues. 
 
-# HOW TO 
+### HOW TO 
 
 1. Install Clover Bootloader https://www.youtube.com/watch?v=qhSciG2SKu4
 
@@ -34,4 +34,4 @@ the DSDT files are generally at Compiled format in .aml files which we can't edi
 
 After editing and compiling the EDITED/PATCHED dsdt.aml, paste as mentioned in the text tutorial or video and boot into clover then to windows from there and voila.
 
-This is a work in progress. if you have any doubts/errors/ideas feel free to do contact us in the [Discord server](https://discord.gg/qEAfkuA)
+### This is a work in progress. if you have any doubts/errors/ideas feel free to do contact us in the [Discord server](https://discord.gg/qEAfkuA)
